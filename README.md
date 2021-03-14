@@ -1,9 +1,7 @@
-# Embedded Dependency-Less JavaScript templates<br/>
-Ejs but without dependencies
+# Embedded JavaScript templates<br/>
+ejs for wgytcraft
 =============================
-## Features
-This is EJS but without dependencies
-## License
+## Copyright & License
 Licensed under the Apache License, Version 2.0
 (<http://www.apache.org/licenses/LICENSE-2.0>)
 - - -
