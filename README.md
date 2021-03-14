@@ -1,10 +1,6 @@
 # Embedded Dependency-Less JavaScript templates<br/>
 Ejs but without dependencies
 =============================
-## Installation
-```bash
-npm install ejs
-```
 ## Features
 This is EJS but without dependencies
 ## License
